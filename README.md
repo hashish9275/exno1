@@ -126,6 +126,38 @@ z
 ```
 ![image](https://github.com/hashish9275/exno1/assets/118707521/a31a4ff3-6f61-4f4a-93f2-e8893d8f8b55)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+```
+```
 # Result
 ```
 Thus the given program executed successfully.
