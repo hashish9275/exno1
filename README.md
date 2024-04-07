@@ -23,7 +23,7 @@ STEP 6: Use zscore of to remove outliers
 # Coding and Output:
 ```
 Name:K.R.Hashish Vidya Sagar
-Reg no:21222230047
+Reg no:212222230047
 ```
 ```
 import pandas as pd
