@@ -25,9 +25,13 @@ STEP 6: Use zscore of to remove outliers
 Name:K.R.Hashish Vidya Sagar
 Reg no:21222230047
 ```
+```
 import pandas as pd
 df=pd.read_csv("/content/SAMPLEIDS.csv")
 df
+```
+![image](https://github.com/hashish9275/exno1/assets/118707521/b129df30-9832-4188-963d-88ea5bc58e3a)
+
 
 # Result
           <<include your Result here>>
